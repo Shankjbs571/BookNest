@@ -1,4 +1,4 @@
-This basic E-Bookstore was created using React.js, Node/express.js, and MySQL with CRUD functionality for educational purpose.
+This Full stack E-Bookstore is created using React.js, Node/express.js, and MySQL with CRUD functionality.
 
 ### Installation:
 
@@ -6,12 +6,12 @@ This basic E-Bookstore was created using React.js, Node/express.js, and MySQL wi
 #### Cloning the repository:
 
 ```shell
-git clone https://github.com/Zrital3265/CRUD-SQL.git
+git clone https://github.com/Shankjbs571/BookNest.git
 ```
 #### Open your terminal and:
 
 ```shell
-cd CRUD-SQL
+cd BookNest
 ```
 
 #### Install the  packages:
